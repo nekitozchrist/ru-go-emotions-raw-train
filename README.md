@@ -1,4 +1,5 @@
 Скрипт подготавливает датасет ru-go-emotions для обучения моделей.
+https://github.com/searayeah/ru-goemotions
 
 Что делает:
 загружает сырые данные из ru-go-emotions-raw.csv;
